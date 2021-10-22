@@ -1,0 +1,4 @@
+- Registros são estrutura que fornecem um formato específico para armazenar dados na memória.
+- Enquanto os arrays são estruturas que armazenam dados de um unico tipo, as estruturas de registros
+ podem armazenar dados de vários tipos.
+ 

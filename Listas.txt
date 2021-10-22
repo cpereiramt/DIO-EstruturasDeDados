@@ -1,0 +1,17 @@
+- Estruturas de dados que armezana dados de um determinado tipo em uma ordem especifica.
+- Lista possue tamanho ajustavel, enquanto vetores (matrizes ) possuem tamanho fixo.
+
+
+
+Existem dois tipos de Listas.
+
+- Listas ligadas
+    Na estrutura do tipo lista ligadas, Existem os nós onde cada um dos nós conhece o valor que está sendo armazenado em
+  seu interior além de conhecer o elemento posterior a ele.
+    Por isso é chamada de lista ligada, pois os nós são amarrados com essa indicação de qual é o próximo nó.
+
+- Listas duplamente ligadas
+
+    A grande diferença entre uma lista duplamente ligada e uma lista ligada é que a lista duplamente ligada possui
+    ainda uma referência para o nó anterior ao nó atual ou seja é bidirecional.
+    
